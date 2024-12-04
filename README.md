@@ -2,7 +2,7 @@
 # Wenzhe Shang
 
 **Tianjin University**  
-[Email: wenzhe_shang@tju.edu.cn](mailto:wenzhe_shang@tju.edu.cn) | [Phone: 188-0229-3310](tel:+86-188-0229-3310) | [Github: swz](https://github.com/wenzheshang)
+[Email: wenzhe_shang@tju.edu.cn](mailto:wenzhe_shang@tju.edu.cn) | [Phone: +86-188-0229-3310](tel:+86-188-0229-3310) | [Github: swz](https://github.com/wenzheshang)
 
 ---
 
