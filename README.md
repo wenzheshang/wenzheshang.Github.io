@@ -24,22 +24,22 @@ Direct PhD student with a five-year educational system.
 ## Experience
 
 ### National Key Research and Development Program of China  
-**Tianjin University**  
+**Tianjin University, 2023YFC3708400**  
 *Dec 2023 – Now*  
 - Propose and develop a control strategy for intelligently adjusting the operating state of the HVAC system based on workload variations and personnel demands within the workspace.
 
 ### Design of ventilation system component parameters  
-**Tianjin University**  
+**Tianjin University, COMAC**  
 *Jun 2024 – Jun 2025*  
 - Optimized ventilation system component parameters using a genetic algorithm and Flowmaster, reducing air supply energy consumption and improving airflow uniformity.
 
 ### Energy Consumption Simulation  
-**Tianjin University**  
+**Tianjin University, Novo Nordisk**  
 *Jun 2023 – Oct 2023*  
 - Simulated the energy consumption of a pharmaceutical plant over a year using eQUEST and conducted an energy-saving potential analysis.
 
 ### Coupling Simulation Software  
-**[GitHub Repository](https://github.com/wenzheshang/BELab)**  
+**[BELab](https://github.com/wenzheshang/BELab_distribute_version)**  
 *Sept 2022 – Apr 2024*  
 - Developed a Python-based tool for implementing coupling simulation between CFD and Modelica.  
 - **Tools Used**: Python, Qt, Modelica, Fluent, FMI & FMU
